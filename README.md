@@ -1,6 +1,9 @@
 # AllianceBlockCaseStudy
 ## Overview & Origin
 
+![ALBTPhoto.png](ALBTPhoto.png) 
+
+
 AllianceBlock is a blockchain-agnostic protocol. A blockchain-agnostic protocol is a central platform that accepts different chains. (K.Clarke-Potter BlockHead, Jan 2 2019) AllianceBlock aims to be the industry standard for financial institutions and individuals to trade cryptocurrency legally. The protocol seeks to bridge decentralized finance (DeFi) and traditional finance (TradFi) by automating the transfer of digital tokens into bankable products. (Messari.io Profile of AllianceBlock) 
 
 The company was incorporated on the 1st of January 2018. (crunchbase.com AllianceBlock Organization) 
