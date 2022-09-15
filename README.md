@@ -1,5 +1,5 @@
 # AllianceBlockCaseStudy
-Overview & Origin
+## Overview & Origin
 
 AllianceBlock is a blockchain-agnostic protocol. A blockchain-agnostic protocol is a central platform that accepts different chains. (K.Clarke-Potter BlockHead, Jan 2 2019) AllianceBlock aims to be the industry standard for financial institutions and individuals to trade cryptocurrency legally. The protocol seeks to bridge decentralized finance (DeFi) and traditional finance (TradFi) by automating the transfer of digital tokens into bankable products. (Messari.io Profile of AllianceBlock) 
 
@@ -17,7 +17,7 @@ Amber Ghaddar: Founder & Chief Investment Officer “Before co-founding Alliance
 
 AllianceBlock was able to raise US$1 million from a seed round and US$500,000 through a private token sale on the 17th of August 2020. The company generated a total supply of 1 billion ALBT tokens, which was launched at their Token Generation Event, held two weeks after the private sale. (Messari.io Profile of AllianceBlock).
 
-Business Activities
+## Business Activities
 
 DeFi has been growing at a rapid pace leading to massive innovations whilst traditional finance for the most part has been unable to bridge the gap due to compliance and regulations. Thus, this poses the question “How to connect Traditional Finance (TradFi) with the Decentralized and Digital Asset markets (DeFi) in order to allow a seamless and compliant flow of capital between both worlds.” (blog.allianceblock.io Feb 12, 2021 AllianceBlock: Building the future of Finance) AllianceBlock believes they have the solution to digitize real world assets such as real estate and commodities to be represented by a digital token. Users will be able to interact with DeFi and TradFi, trade assets as well as receiving data in a uniform manner that meets compliance, promoting the flow between the two markets. This will ensure safety and regulations to be introduced to a greater audience as trillions of dollars from TradFi make their way into the decentralized world of finance. (blog.allianceblock.io Feb 12, 2021 AllianceBlock: Building the future of Finance) Examples include; the Cross Border Regulatory Rule Engine which ensure compliance in the most effective way, the Onchain Investment Data API to house data from onchain and specialist providers to create innovative data analytics for Traditional Finance institutions as well as Trustless KYC/AML and Identity Verification allows users to identify themselves through trustless manner whilst letting them retain control of data. (blog.allianceblock.io Feb 12, 2021 AllianceBlock: Building the future of Finance) 
 
@@ -38,7 +38,7 @@ Regulatory and Compliance Layer - With the AllianceBlock TIDV (Trustless IDentit
 
 
 
-Landscape
+## Landscape
 
 AllianceBlock is in DeFi which uses Blockchain “a shared, immutable ledger that facilitates the process of recording transactions and tracking assets in a business network.” (ibm.com Blockchain overview) Blockchain services extend past financial transactions due to its secure and transparent nature and can cover areas such as logistics, energy, education and more. (S.Daley Blockchain Sep 01 2022) 
 
@@ -57,7 +57,7 @@ Terra Luna - founded in 2019 by Do Kown, Terra Luna has been referred to as a �
 MakerDAO - founded in 2015 by Rune Christensen “MakerDAO embodies one of the most complete visions for DeFi”. MakerDao gives users the opportunity to collateralize chosen cryptocurrency to reap loans in the form of a dollar-pegged stablecoin, which in this case is DAI. In 2020 “MakerDAO became the first DeFi protocol to hit the $1 billion mark in total value locked into its smart contracts. Today that figure is around $16 billion” which makes MakerDao a big player in the DeFi space. 
 Avalanche - The goal of Avalanche is to “create a smart contract platform superior to Ethereum with a particular focus on DeFi” it aims to tackle one of Ethereum's main weaknesses with is loss of network speeds. The solution offered by the protocol “results in a speed of 4500 transactions per second per submit and a completion time of 3 seconds. This compares with 7 transactions per second on the Bitcoin network and 1 hr to complete.” this improvement of efficiency can spearhead the adoption of DeFi.  (docs.cosmos.network What is the Cosmos SDK) 
 
-Results 
+## Results 
 
 Although AllianceBlock is still in its infancy in terms of the global impact it is aiming to have, they have made some notable partnerships, integrating AllianceBlock’s vast DeFi solutions. One popular partnership is Avalanche (discussed above). The integration allows access to the AllianceBlock DeFi Investment Terminal, NFT capabilities, solutions for identity verification, P2P financial services that meet compliance and trussless KYC whilst also enjoying derivative pricing engine and analytics that Avalanche already offer. (Medium AllianceBlock Bringing its Compliant DeFi Applications, Institutional Connections to Avalanche Ecosystem Apr 7 2021) 
 
@@ -73,7 +73,7 @@ AllianceBlock is reported to have $50 million in Total Locked Value. (limechain.
 
 Currently AllianceBlock is ranked #774 on CoinMarketCap (coinmarketcap.com AllianceBlock) although not in the forefront for most participants in DeFi, AllianceBlock is only in its infancy and is still developing. An encouraging aspect of AllianceBlock is the fantastic partnerships that they have acquired over the years such as ChainLink, Avalanche, Quant, Binance Smart Chain and polygon just to name a few.(allianceblock.io) These partnerships can give you an idea of the scope and scale of the companies that AllianceBlock are working with and how they can become a huge player in the DeFi space. 
 
-Recommendation
+## Recommendation
 
 AllianceBlock is still in the early stages of their roadmap, however, If AllianceBlock are looking to become the industry standard they must implement a product or service that can help them increase their metrics and gain popularity within the DeFi community. The establishment of a decentralized autonomous organization (DAO) can assist AllianceBlock in achieving those goals. As it is a software that aligns with the industry AllianceBlock inhabits, as well as a mechanism to increase users and in particular staking within the project. 
 
@@ -102,7 +102,7 @@ These technologies are a correct fit for AllianceBlock as most are already being
 
 
 
-References. 
+## References. 
 
 Clarke-Potter, K. (2019, Jan 2). Blockchain Agnosticism is the Future https://blockheadtechnologies.com/blockchain-agnostic-is-future/ 
 
