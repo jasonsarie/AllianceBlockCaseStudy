@@ -163,5 +163,7 @@ https://technode.global/2022/06/20/technology-of-daos-and-the-metaverse/#:~:text
 
 (kraken.com What is a DAO? (Decentralized Autonomous Organization))  
 https://www.kraken.com/learn/what-is-decentralized-autonomous-organization-dao 
+
+
 =======
 >>>>>>> dc8bca62b5dbcea61f39d8afeb5f170cb1ed50b9
